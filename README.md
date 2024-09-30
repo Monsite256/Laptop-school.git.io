@@ -29,7 +29,7 @@
         </section>
         <section id="contact">
             <h2>Contactez-nous</h2>
-            <p>Pour toute question, veuillez nous contacter à 026104040 <a href="mailto: tamdalaptopschool@gmail.com">tamdalaptopschool@gmail.com</a>.</p>
+            <p>Pour toute question, veuillez nous contacter à 026104040 <a href="mailto: tamdalaptopschool@gmail.com">http://www.laptopschool.com site web</a>.</p>
         </section>
     </main>
     <footer>
