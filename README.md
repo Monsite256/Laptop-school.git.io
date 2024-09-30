@@ -13,7 +13,7 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#http//laptopschool.com">À propos</a></li>
+            <li><a href="#about">À propos</a></li>
             <li><a href="#programs">Programmes</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
