@@ -13,7 +13,7 @@
     </header>
     <nav>
         <ul>
-            <li><a href="http://www.laptopschool.com">À propos</a></li>
+            <li><a href="http://www.laptopschool.git.io">À propos</a></li>
             <li><a href="#programs">Programmes</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
